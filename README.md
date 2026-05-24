@@ -25,7 +25,7 @@
 
 > *git commit -m "Ordis said it compiles, Ordis lied, everything is on fire"*
 
-* **`[ACTIVITY]`** Writing code that works (sometimes defying the laws of logic).
+* **`[ACTIVITY]`** Writing code that works or *MAKING EVERYTHING EXPLODE* filtering logic.
 * **`[PING]`** I might reply slow. Very slow. But honestly.
 
 ```javascript
