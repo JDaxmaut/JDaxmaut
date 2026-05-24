@@ -1,4 +1,4 @@
-# 🛸 ERROR: CEPHALON OVERRIDE DETECTED
+# ERROR: CEPHALON OVERRIDE DETECTED
 
 <p align="center">
   <img src="ordis.gif" width="100%" style="max-height: 300px; object-fit: cover;" alt="Ordis Cephalon"/>
@@ -10,9 +10,6 @@
 </div>
 
 ---
-
-### 🗂️ TERMINAL_DIAGNOSTIC.EXE
-
 ```text
    ____           _ _       
   / __ \         | (_)      
