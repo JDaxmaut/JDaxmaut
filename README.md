@@ -32,7 +32,7 @@
 const developer = {
   name: "JDaxmaut",
   status: "Surviving on stale bread",
-  coffeeToCodeRatio: Infinity,
+  BurnToCodeRatio: Infinity,
 };
 ```
 
