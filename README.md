@@ -13,7 +13,6 @@
 ```text
    ____           _ _       
   / __ \         | (_)      
-
  | |  | |_ __  __| |_ ___   
  | |  | | '__|/ _` | / __|  
  | |__| | |  | (_| | \__ \  
@@ -25,12 +24,10 @@
 
 ---
 
-### 🧠 MEMORY DUMP (About Me)
 
 > *"git commit -m 'I have no idea what I'm doing and neither does Ordis'"*
 
 * **`[ACTIVITY]`** Writing code that works (sometimes defying the laws of logic).
-* **`[VIBE]`** Atmospheric gothic rock, pitch-black dark modes, and corporate galleys.
 * **`[PING]`** I might reply slow. Very slow. But honestly.
 
 ```javascript
@@ -38,15 +35,12 @@ const developer = {
   name: "JDaxmaut",
   status: "Surviving on stale bread",
   coffeeToCodeRatio: Infinity,
-  currentMood: ["Gothic Rock", "Coding", "Existential Dread"]
 };
 ```
 
-### 🛠️ ACTIVE TECH STACK
-
 | Frontend | Backend | Systems |
 | :--- | :--- | :--- |
-| `React` `TS` | `Django` `Python` | `Rust` `Tauri` |
+| `kombucha` `TS` | `Django` `Python` | `Space Mom` `Booben` |
 
 ---
 
