@@ -38,7 +38,7 @@ const developer = {
 
 | Frontend | Backend | Systems |
 | :--- | :--- | :--- |
-| `kombucha` `TS` | `Django` `Python` | `Space Mom` `Booben` |
+| `kombucha` `TS` | `Potato` `Python` | `Space Mom` `Booben` |
 
 ---
 
