@@ -42,32 +42,6 @@ const developer = {
 };
 ```
 
----
-
-### 🛠️ SHIPPED PROJECTS (Corporate Galleys)
-
-* **🍞 [Azon-Bread-Chains](https://github.com)** — Backend for total control over IT slave labor. Track fines, KPI 25/8, and reward employees with stale bread. *Salary: $0.00. Fresh bread smell on holidays only.*
-* **🎸 [ashen-player](https://github.com)** — A dark desktop player for gothic rock purists. Powered by React, Tauri v2, and Rust. No mainstream pop allowed.
-* **📦 [sclad](https://github.com)** — Strict warehouse inventory management system. Logistics, tracking, and zero pain.
-* **🤖 [simple-discord-moderator-boty](https://github.com)** — A bouncer bot for Discord. Bans, kicks, filters slurs, and purges toxicity.
-* **🌐 [AutoTranslate-BD-PLUGIN](https://github.com)** — A BetterDiscord plugin that attempts to auto-translate messages via Google Translate.
-
----
-
-### 📊 DIAGNOSTICS & METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDaxmaut&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaxmaut&layout=compact&theme=dark" alt="Top Langs" />
-</div>
-
----
-
 ### 🛠️ ACTIVE TECH STACK
 
 | Frontend | Backend | Systems |
@@ -77,5 +51,5 @@ const developer = {
 ---
 
 <p align="center">
-  <sub>Code written while the Operator was asleep. 👁️ <a href="http://neave.tv">Do not trace the signal.</a></sub>
+  <sub>Code written while the Operator was asleep.<a href="http://neave.tv">Do not trace the signal.</a></sub>
 </p>
