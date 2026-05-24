@@ -43,5 +43,5 @@ const developer = {
 ---
 
 <p align="center">
-  <sub>Code written while the Operator was asleep.<a href="http://neave.tv">Do not trace the signal.</a></sub>
+  <sub>Code written while the Operator was asleep.<a href="https://media1.tenor.com/m/FVx2hQ1CUbkAAAAC/peabody-sherman.gif">Do not trace the signal.</a></sub>
 </p>
