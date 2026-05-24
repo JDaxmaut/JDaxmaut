@@ -21,3 +21,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDaxmaut&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDaxmaut&layout=compact&theme=dark)
+
+<p align="center">
+  <sub>Code written while the Operator was asleep. 🕳️ Do not click <a href="http://neave.tv">here</a>.</sub>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/status-operational-brightgreen" alt="Status"/>
+  <img src="https://img.shields.io/badge/ordis-online-blue" alt="Ordis"/>
+</div>
