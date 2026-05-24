@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ordis.gif" alt="Ordis" width="150">
+</p>
+
 > *"git commit -m 'I have no idea what I'm doing and neither does Ordis'"*
 
 **What I do:** Writing code that works (sometimes defying the laws of logic).
